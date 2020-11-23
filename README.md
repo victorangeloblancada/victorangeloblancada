@@ -1,17 +1,17 @@
-## Hi there 👋
+## Hi there :wave:
 
 I'm **Victor**. I'm a former strategy consultant turned data scientist with experience building machine learning platforms and projects across industries ranging from telecommunications, advertising and marketing, manufacturing, supply chain management, and logistics. 
 
 [Visit my website to learn more](http://victorangeloblancada.github.io/) or [connect with me on LinkedIn](https://linkedin.com/in/geloblancada).
 
-### Writing
+### Writing :black_nib:
 
 My [blog](https://victorangeloblancada.github.io/blog.html) has been named [one of the best mathematics blogs](https://abakcus.com/directory/victor-angelo-blancadas-blog/) by [Abakcus](https://abakcus.com/best-useful-mathematics-blogs-directory/). Here are some of my recent writing:
 - [Logistics Center of Gravity Analysis in Python](https://medium.com/analytics-vidhya/logistics-center-of-gravity-analysis-in-python-a21ad034f849), published in [Analytics Vidhya](https://medium.com/analytics-vidhya?source=post_page-----a21ad034f849--------------------------------)
 - [10,000 Hours, Artificial Intelligence, and the Democratization of Expertise](https://medium.com/datadriveninvestor/malcolm-gladwells-10-000-hours-artificial-intelligence-and-the-democratization-of-expertise-405dd3a3fa39), published in [Data Driven Investor](https://medium.com/datadriveninvestor?source=post_page-----405dd3a3fa39--------------------------------)
 - [AI Biases and Independent Variables](https://medium.com/datadriveninvestor/ai-biases-and-independent-variables-d8bc8f6e4db5), published in [Data Driven Investor](https://medium.com/datadriveninvestor?source=post_page-----d8bc8f6e4db5--------------------------------)
 
-### Projects
+### Projects :wrench:
 
 Some projects I have worked on involved:
 - [Directing the $400MM USD network expansion of a North American telecommunications carrier by running a predictive big data simulation that leveraged a terabyte-scale database to forecast sales on the customer level and developed a detailed network plan with specifications down to last-mile connections to customer premises.](https://victorangeloblancada.github.io/blog/2017/11/16/a-network-expansion-strategy-case-study.html)
