@@ -5,7 +5,6 @@ I'm **Victor**. I'm a former strategy consultant turned data scientist with expe
 ### Writing :black_nib:
 
 My [blog](https://victorangeloblancada.github.io/blog.html) has been named [one of the best mathematics blogs](https://abakcus.com/directory/victor-angelo-blancadas-blog/) by [Abakcus](https://abakcus.com/best-useful-mathematics-blogs-directory/). Here are some of my recent writing:
-- [Logistics Center of Gravity Analysis in Python](https://medium.com/analytics-vidhya/logistics-center-of-gravity-analysis-in-python-a21ad034f849), published in [Analytics Vidhya](https://medium.com/analytics-vidhya?source=post_page-----a21ad034f849--------------------------------)
 - [10,000 Hours, Artificial Intelligence, and the Democratization of Expertise](https://medium.com/datadriveninvestor/malcolm-gladwells-10-000-hours-artificial-intelligence-and-the-democratization-of-expertise-405dd3a3fa39), published in [Data Driven Investor](https://medium.com/datadriveninvestor?source=post_page-----405dd3a3fa39--------------------------------)
 - [AI Biases and Independent Variables](https://medium.com/datadriveninvestor/ai-biases-and-independent-variables-d8bc8f6e4db5), published in [Data Driven Investor](https://medium.com/datadriveninvestor?source=post_page-----d8bc8f6e4db5--------------------------------)
 
